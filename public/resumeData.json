@@ -4,13 +4,13 @@
     "occupation": "",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Prakash.",
-    "contactmessage": "Get in touch with me through",
+    "bio": "Hi there! I am Prakash. I am an inquisitive and proactive person. With greater passion to learn, I want to adapt and continuously evolve thus being pre-eminent in an ever-changing world. ",
+    "contactmessage": "Get in touch with me",
     "email": "poornaprakash25@gmail.com",
     "phone": "+91 7373830903",
     "address": {
       "street": "4 Vellain Street",
-      "city": "Theni",
+      "city": "Theni,",
       "state": "Tamil Nadu",
       "zip": "625515"
     },
@@ -60,23 +60,23 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "10%"
       },
       {
         "name": "Python",
-        "level": "85%"
+        "level": "5%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "7%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "9%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "5%"
       }
     ]
   },
